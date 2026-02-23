@@ -1,4 +1,4 @@
-import Pricing from './PricingPage/pricing.jsx';
+import Pricing from './Pages/PricingPage.jsx';
 const App=()=>{
   return(
     <div>
